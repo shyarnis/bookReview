@@ -163,7 +163,7 @@ cython_debug/
 # other stuffs.
 learning.txt
 users.txt
-functional_tests/
+
 
 # static files
 staticfiles/
